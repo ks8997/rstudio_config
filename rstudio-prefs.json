@@ -1,0 +1,44 @@
+{
+    "initial_working_directory": "~",
+    "editor_theme": "Chaos",
+    "posix_terminal_shell": "bash",
+    "jobs_tab_visibility": "shown",
+    "font_size_points": 12,
+    "graphics_backend": "ragg",
+    "help_font_size_points": 12,
+    "panes": {
+        "quadrants": [
+            "Console",
+            "TabSet1",
+            "Source",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Files",
+            "Plots",
+            "Connections",
+            "Packages",
+            "Help",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Viewer",
+            "Presentations",
+            "Presentation"
+        ],
+        "tabSet2": [],
+        "hiddenTabSet": [],
+        "console_left_on_top": true,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "graphics_antialiasing": "subpixel",
+    "default_project_location": "/Users/vv/rtmp",
+    "insert_native_pipe_operator": true,
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "syntax_color_console": true,
+    "console_double_click_select": true
+}
